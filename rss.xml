@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 May 2023 03:46:35 GMT</lastBuildDate><item><title><![CDATA[AI 기술을 활용한 스마트 홈 시스템]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-new-post2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-new-post2/</guid><pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;스마트 홈 시스템이란?&lt;/h3&gt;
+&lt;p&gt;스마트 홈 시스템은 기존의 가전제품, 조명, 창문 등을 인터넷에 연결하여 우리가 집 밖에서도 집안을 제어할 수 있게 만들어주는 기술입니다. 이를 통해 우리는 집 안에서 일어나는 다양한 상황을 감시하고 관리할 수 있게 됩니다.&lt;/p&gt;
+&lt;h3&gt;AI 기술을 활용한 스마트 홈 시스템의 구축 방법&lt;/h3&gt;
+&lt;p&gt;AI 기술을 활용하여 스마트 홈 시스템을 구축하려면 먼저 다음과 같은 기술적인 요소가 필요합니다.&lt;/p&gt;
+&lt;h4&gt;1. 센서&lt;/h4&gt;
+&lt;p&gt;스마트 홈 시스템은 집안의 상황을 감지하여 우리가 원하는 대로 제어할 수 있도록 만들어줍니다. 이를 위해서는 집안의 다양한 곳에 센서를 설치해야 합니다. 예를 들어, 카메라 센서를 이용해 집안을 감시하거나 온도 센서를 이용해 난방기를 제어할 수 있습니다.&lt;/p&gt;
+&lt;h4&gt;2. 인공지능&lt;/h4&gt;
+&lt;p&gt;인공지능은 스마트 홈 시스템에서 가장 중요한 기술 중 하나입니다. 인공지능을 이용하면 스마트 홈 시스템이 집안의 상황을 감지하고 그 상황에 맞는 대응을 할 수 있습니다. 예를 들어, 인공지능이 이용된 CCTV를 설치하면 사람이나 동물의 움직임을 감지하여 이상 징후를 파악하고 대응할 수 있습니다.&lt;/p&gt;
+&lt;h4&gt;3. IoT&lt;/h4&gt;
+&lt;p&gt;IoT(Internet of Things)는 스마트 홈 시스템을 운영하는 데 필요한 기술입니다. IoT를 이용하면 집안의 다양한 가전제품이나 기기를 인터넷에 연결하여 우리가 집 밖에서&lt;/p&gt;</content:encoded></item><item><title><![CDATA[블로그 운영에 도움이 되는 기술 도구들]]></title><description><![CDATA[1. 마크다운 에디터 마크다운은 간단하게 텍스트로 구조화된 문서를 작성할 수 있는 문법입니다. 마크다운을 활용하면 HTML…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-new-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-new-post/</guid><pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;1. 마크다운 에디터&lt;/h3&gt;
+&lt;p&gt;마크다운은 간단하게 텍스트로 구조화된 문서를 작성할 수 있는 문법입니다. 마크다운을 활용하면 HTML과 같은 복잡한 문법을 배우지 않아도 간결하고 깔끔한 문서를 작성할 수 있습니다. 마크다운을 지원하는 에디터를 사용하면 보다 편리하게 마크다운 문서를 작성할 수 있습니다.&lt;/p&gt;
+&lt;h4&gt;추천 마크다운 에디터&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Typora: WYSIWYG 방식으로 마크다운 문서를 작성할 수 있는 에디터입니다. 빠르고 간편하게 마크다운 문서를 작성할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;VS Code: Microsoft에서 개발한 무료 텍스트 에디터로 마크다운 확장 기능을 제공합니다.&lt;/li&gt;
+&lt;li&gt;Atom: GitHub에서 개발한 무료 텍스트 에디터로 마크다운을 기본적으로 지원합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 이미지 호스팅 서비스&lt;/h3&gt;
+&lt;p&gt;블로그에서는 글에 이미지를 첨부해 시각적인 요소를 더해주는 경우가 많습니다. 하지만 이미지를 직접 업로드하면 블로그의 용량을 많이 차지하게 되어 비용이 발생할 수 있습니다. 따라서 이미지 호스팅 서비스를 활용해 이미지를 업로드하고 링크를 이용해 블로그에 삽입하는 것이 좋습니다.&lt;/p&gt;
+&lt;h4&gt;추천 이미지 호스팅 서비스&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Imgur: 무료로 이미지를 업로드하고 URL을 제공해줍니다.&lt;/li&gt;
+&lt;li&gt;Cloudinary: 이미지 호스팅 뿐만 아니라 이미지 리사이징, 필터, 크롭 등 다양한 기능을 제공합니다. 무료 플랜도 제공하고 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. 통계 분석 도구&lt;/h3&gt;
+&lt;p&gt;블로그 운영에서는 방문자 수나 글의 조회수 등의 통계 데이터를 분석해야 할 경우가 많습니다. 이를 위해 통계 분석 도구를 활용하면 블로그 운영의 효율성을 높일 수 있습니다.&lt;/p&gt;</content:encoded></item></channel></rss>
