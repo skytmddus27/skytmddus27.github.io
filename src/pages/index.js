@@ -5,6 +5,15 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
+const handleOrder = () => {
+  alert("상품이 주문되었습니다!");
+  openOrderModal();
+};
+
+const openOrderModal = () => {
+
+};
+
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
@@ -12,6 +21,17 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Bio />
+      <div style={{ display: "flex", justifyContent: "center" }}>
+        <button
+          onClick={handleOrder}
+          style={{
+            backgroundColor: "skyblue",
+            fontSize: "5rem",
+          }}
+        >
+          주문하기
+        </button>
+      </div>
       <section
         dangerouslySetInnerHTML={{ __html: posts[0].html }}
         itemProp="articleBody"
