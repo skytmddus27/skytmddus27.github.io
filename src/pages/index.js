@@ -21,21 +21,30 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Bio />
+      <section
+        dangerouslySetInnerHTML={{ __html: posts[0].html }}
+        itemProp="articleBody"
+      />
       <div style={{ display: "flex", justifyContent: "center" }}>
         <button
           onClick={handleOrder}
+          className="order-button"
           style={{
-            backgroundColor: "skyblue",
-            fontSize: "5rem",
+            backgroundColor: "yellow",
+            fontSize: "2rem",
+            border: "none",
+            padding: "1rem 2rem",
+            borderRadius: "0.5rem",
+            boxShadow: "0px 2px 5px rgba(0, 0, 0, 0.2)",
+            cursor: "pointer",
+            fontWeight: "bold",
+            textTransform: "uppercase",
+            transition: "background-color 0.3s ease",
           }}
         >
           주문하기
         </button>
       </div>
-      <section
-        dangerouslySetInnerHTML={{ __html: posts[0].html }}
-        itemProp="articleBody"
-      />
     </Layout>
   );
 }

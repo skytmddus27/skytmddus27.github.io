@@ -3,10 +3,8 @@ title: 제품 소개 홈페이지
 date: "2023-05-22"
 description: 블로그를 운영하면서 편리하고 효율적으로 글을 작성하고 관리하기 위해 다양한 기술 도구들을 활용할 수 있습니다. 이번 글에서는 블로그 운영에 도움이 되는 기술 도구들 중 몇 가지를 소개하고, 어떻게 활용할 수 있는지 알아보겠습니다.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1S8L7t2tu0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2>환영합니다!</h2>
-
-<img src="https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo-768x432.jpg" alt="로고 이미지" width="180" height="100">
 
 <p>제품 소개 홈페이지에 오신 것을 환영합니다. 저희 제품은 다음과 같은 특징을 가지고 있습니다:</p>
 
