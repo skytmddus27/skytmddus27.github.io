@@ -28,7 +28,7 @@ const BlogIndex = ({ data, location }) => {
       <div style={{ display: "flex", justifyContent: "center" }}>
         <button
           onClick={handleOrder}
-          className="order-button"
+          className="custom-button"
           style={{
             backgroundColor: "yellow",
             fontSize: "2rem",
